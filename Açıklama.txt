@@ -1,0 +1,11 @@
+Programýn Visual Studio da derlenmesi için gerekli dosyalarý Tez Analiz dosyasý içerinde verilmiþtir.
+Fakat bazý kütüphanelerin yüklenmesi gerekmektedir.
+
+1-Devexpress 20.1(Ýndirilmesi gerekiyor)
+2-iTextSharp(Nuget)
+3-SautinSoft.Document(Nuget)
+4-WordToPDF(Nuget)
+
+Burada bu kurulumlar tamamlandýktan sonra .net 4.6.1 ile çalýþmaktadýr. Bulunmuyorsa kurulum dosya içerisinde mevcut.
+
+Program kütüphaneler bilgisayara yüklenmeden çalýþýr fakat Visual studio ile derleyip deðiþiklik yapýlmak istenirse kütüphanelerin yüklenmesi gerekir.
